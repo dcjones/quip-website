@@ -17,17 +17,14 @@
 /* #Site Styles
 ================================================== */
 
-.container {
-	padding-top: 20px;
-}
 
 div#about_block, div#paper_block, div#download_block {
 	height: 200px;
 	padding: 7px;
 	margin: 3px;
-	background-color: #f0f7ff;
-	border-top: solid 1px #bfddff;
-	border-bottom: solid 1px #bfddff;
+	/*background-color: #f0f7ff;*/
+	/*border-top: solid 1px #bfddff;*/
+	/*border-bottom: solid 1px #bfddff;*/
 /*	border-top: solid 1px #9bb3cf;
 	border-bottom: solid 1px #9bb3cf;
 */}
@@ -36,7 +33,7 @@ div#about_block h4, div#paper_block h4, div#download_block h4 {
 	text-shadow: 1px 0px 0 #eee;
 }
 
-hr { border: solid #bfddff; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
+hr { border: solid #bfddff; border-width: 1px 0 0; clear: both; margin: 10px 0 20px; height: 0; }
 
 
 /* #Page Styles
