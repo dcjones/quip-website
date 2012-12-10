@@ -33,6 +33,14 @@ div#about_block h4, div#paper_block h4, div#download_block h4 {
 	text-shadow: 1px 0px 0 #eee;
 }
 
+.citation_title {
+    font-size: 110%;
+}
+
+.citation_small {
+    font-size: 90%;
+}
+
 hr { border: solid #bfddff; border-width: 1px 0 0; clear: both; margin: 10px 0 20px; height: 0; }
 
 
